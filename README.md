@@ -90,6 +90,7 @@ run `python train.py`.  "args.py" is for parameter.
 #### 
 
 # Reference
+大佬的T5代码：https://github.com/JunnYu/paddle_t5
 
 ```bibtex
 @unknown{unknown,
