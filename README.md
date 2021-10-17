@@ -71,7 +71,7 @@ max difference: tensor(0.0004)
 
 ```
 
-<img src="imgs/2.png" width="80%" />
+<img src="imgs/2.png" width="60%" />
 
 
 
