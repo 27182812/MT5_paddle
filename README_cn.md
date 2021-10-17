@@ -39,6 +39,8 @@ pip install -r requirements.txt
 
 ```
 
+"test.ipynb"有运行结果展示。
+
 
 
 ## 快速开始
