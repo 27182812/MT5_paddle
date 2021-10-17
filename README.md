@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ```
 
-
+"test.ipynb" has run results display.
 
 ## Quick Start
 
